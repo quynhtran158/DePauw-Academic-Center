@@ -157,8 +157,8 @@ header .navbar {
 /* START CAROUSEL */
 .carousel {
   padding-top: 8rem;
-  background: linear-gradient(to right, white, rgba(255, 255, 255, 0.92)),
-    url(../img/banner_carousel.jpg);
+  background: linear-gradient(to right, white, rgba(255, 255, 255, 0.4)),
+    url(../img/DPUCAROUSEL.jpeg);
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -601,7 +601,7 @@ header .navbar {
   bottom: -35px;
 }
 .slick-dots li.slick-active button:before {
-  color: #d62f58;
+  color: #ffdc0b;
 }
 
 .slick-dots li button::before {
@@ -610,7 +610,7 @@ header .navbar {
   font-size: 10px;
 }
 .slick-dots li button:hover:before {
-  color: #d62f58;
+  color: #ffdc0b;
 }
 
 /* start activity */
@@ -636,11 +636,11 @@ header .navbar {
   transition: 0.5s;
 }
 .activity__button .get-started:hover {
-  background-color: #d62f58;
-  border-color: #cf2952;
+  background-color: #ffdc0b;
+  border-color: #ffdc0b;
 }
 .activity__button .demo {
-  color: #d62f58;
+  color: #ffdc0b;
 }
 .activity__button .demo:hover {
   background-color: #ffdc0b;
